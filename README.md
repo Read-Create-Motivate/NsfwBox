@@ -33,7 +33,7 @@ Developed on RAD Studio 11 Alexandria.
 * <img src="https://givemeporn.club/static/images/favicon.png?v=1" width="24" align="left">[givemeporn.club](https://givemeporn.club/)
 * <img src="https://kemono.party/static/favicon.ico" width="24" align="left">[kemono.party](https://kemono.party), [coomer.party](https://coomer.party)
 * <img src="https://external-content.duckduckgo.com/ip3/9hentai.to.ico" width="24" align="left">[9hentai.to](https://9hentai.to)
-* <img src="assets/themes/default/content-origin-6.png" width="24" align="left">[motherless.com](https://motherless.com)
+* <img src="assets/themes/default/content-origin-6.png" width="24" align="left">[motherless.xxx](https://motherless.xxx)
 * <img src="assets/themes/default/content-origin-7.png" width="24" align="left">[fapello.com](https://fapello.com)
 * <img src="assets/themes/default/content-origin-8.png" width="24" align="left">[rule34.xxx](https://rule34.xxx)
 * <img src="assets/themes/default/content-origin-9.png" width="24" align="left">[gelbooru.com](https://gelbooru.com)
@@ -67,7 +67,7 @@ Developed on RAD Studio 11 Alexandria.
     <a href="https://github.com/Kisspeace/delphi-givemeporn.club-scraper">delphi-givemeporn.club-scraper</a>
     <a href="https://github.com/Kisspeace/delphi-9hentai.to-api-wrapper">delphi-9hentai.to-api-wrapper</a>
     <a href="https://github.com/Kisspeace/coomer.party-scraper">coomer.party-scraper</a>
-    <a href="https://github.com/Kisspeace/motherless.com-scraper">motherless.com-scraper</a>
+    <a href="https://github.com/Kisspeace/motherless.xxx-scraper">motherless.xxx-scraper</a>
     <a href="https://github.com/Kisspeace/fapello.com-scraper">fapello.com-scraper</a>
     <a href="https://github.com/Kisspeace/BooruScraper">BooruScraper</a>
     <a href="https://github.com/DelphiWorlds/Kastri">Kastri</a>
